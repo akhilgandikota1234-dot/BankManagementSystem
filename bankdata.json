@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "customerId": 101,
+      "name": "Akhil",
+      "phoneNumber": "9876543210",
+      "email": "akhil@gmail.com"
+    },
+    {
+      "customerId": 102,
+      "name": "Rahul",
+      "phoneNumber": "9876543211",
+      "email": "rahul@gmail.com"
+    }
+  ],
+  "accounts": [
+    {
+      "accountNumber": "ACC1001",
+      "customerId": 101,
+      "balance": 5000.0
+    },
+    {
+      "accountNumber": "ACC1002",
+      "customerId": 102,
+      "balance": 8000.0
+    }
+  ]
+}
